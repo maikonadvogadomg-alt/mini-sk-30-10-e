@@ -1,0 +1,10 @@
+[
+ {
+  "role": "user",
+  "content": "Oi"
+ },
+ {
+  "role": "assistant",
+  "content": "Olá! A ponte do Mini SK foi ligada com sucesso no Termux.\n\nO que você gostaria de fazer agora?"
+ }
+]
